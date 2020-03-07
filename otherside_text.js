@@ -29,8 +29,8 @@ export default (props) => {
 
     //initial start is at 0s
     var timeDisplacement = 0;
-    //dark magic dont touch
-    var scale = textSize / 24 * .8 * time+1.7;
+    //less dark magic version - const scaling based on text size
+    var scale = textSize / 24 * 3.5;
     var delayFunction = (c) => {
         var curr = timeDisplacement;
         //shorter than normal
