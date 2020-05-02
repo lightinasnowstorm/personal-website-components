@@ -28,7 +28,7 @@ class FishingDisplay extends React.Component {
             COELACANTH: false,
             TWOFACE: false,
             WATER_FLEA: false,
-            OIL_SARDINE: true,
+            OIL_SARDINE: false,
             ARAPAIMA: false,
 
             FRESHWATER_RAY: false,
@@ -37,7 +37,7 @@ class FishingDisplay extends React.Component {
             BLOAT_FISH: false,
             CARP: false,
             KILLIFISH: false,
-            TWINFISH: true,
+            TWINFISH: false,
             AROWANA: false,
 
             IRON_PIPE: false,
