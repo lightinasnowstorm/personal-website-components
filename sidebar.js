@@ -46,7 +46,7 @@ class Sidebar extends React.Component {
                     </SidebarElement>
                     <SidebarElement color="#d081ff" href="/translations">
                         <EN>Translation</EN>
-                        <JA>通訳</JA>
+                        <JA>翻訳</JA>
                     </SidebarElement>
                     <SidebarElement color="yellow" sColor="#9886d9" href="#">
                         <EN>Programs</EN>
@@ -54,7 +54,7 @@ class Sidebar extends React.Component {
                     </SidebarElement>
                     <SidebarElement color="aquamarine" sColor="#ffb7eb" href="#">
                         <EN>About Site</EN>
-                        <JA>サイトには</JA>
+                        <JA>サイトについて</JA>
                     </SidebarElement>
                     <div /><div /><div />
                 </div>
